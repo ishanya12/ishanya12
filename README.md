@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ishanya&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanya&layout=compact&theme=radical&hide=java,html,css,jupyter%20notebook,batchfile,shell" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanya&layout=compact&theme=radical&hide=java,html,css" width="48%" />
 </p>
 
 <p align="center">
@@ -52,4 +52,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ishanya&style=flat-square&color=blue" alt="Profile views" />
 </p>
+
 
